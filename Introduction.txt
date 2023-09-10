@@ -1,0 +1,11 @@
+AJAX - Asynchronous JavaScript And XML
+
+DOM - Document Object Model
+    DOM includes HTML tags, Style Tags, body, div etc.
+    DOM can be controlled by JavaScript. 
+
+Major Modern Browser
+    Browser now a days
+
+ECMA
+    Standard of JavaScript Properties.ie Loops, Conditions etc. keeps updated.
